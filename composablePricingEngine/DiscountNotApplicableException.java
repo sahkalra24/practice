@@ -1,0 +1,3 @@
+class DiscountNotApplicableException extends RuntimeException{
+
+}
